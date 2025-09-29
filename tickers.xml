@@ -1,0 +1,2718 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tickers>
+  <ticker>
+    <name>3M</name>
+    <symbol>MMM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>A. O. Smith</name>
+    <symbol>AOS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Abbott Laboratories</name>
+    <symbol>ABT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>AbbVie</name>
+    <symbol>ABBV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Accenture</name>
+    <symbol>ACN</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>Adobe Inc.</name>
+    <symbol>ADBE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Advanced Micro Devices</name>
+    <symbol>AMD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>AES Corporation</name>
+    <symbol>AES</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Aflac</name>
+    <symbol>AFL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Agilent Technologies</name>
+    <symbol>A</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Air Products</name>
+    <symbol>APD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Airbnb</name>
+    <symbol>ABNB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Akamai Technologies</name>
+    <symbol>AKAM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Albemarle Corporation</name>
+    <symbol>ALB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Alexandria Real Estate Equities</name>
+    <symbol>ARE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Align Technology</name>
+    <symbol>ALGN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Allegion</name>
+    <symbol>ALLE</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>Alliant Energy</name>
+    <symbol>LNT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Allstate</name>
+    <symbol>ALL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Alphabet Inc. (Class A)</name>
+    <symbol>GOOGL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Alphabet Inc. (Class C)</name>
+    <symbol>GOOG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Altria</name>
+    <symbol>MO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Amazon</name>
+    <symbol>AMZN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Amcor</name>
+    <symbol>AMCR</symbol>
+    <country>Switzerland</country>
+  </ticker>
+  <ticker>
+    <name>Ameren</name>
+    <symbol>AEE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>American Electric Power</name>
+    <symbol>AEP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>American Express</name>
+    <symbol>AXP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>American International Group</name>
+    <symbol>AIG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>American Tower</name>
+    <symbol>AMT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>American Water Works</name>
+    <symbol>AWK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ameriprise Financial</name>
+    <symbol>AMP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ametek</name>
+    <symbol>AME</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Amgen</name>
+    <symbol>AMGN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Amphenol</name>
+    <symbol>APH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Analog Devices</name>
+    <symbol>ADI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Aon plc</name>
+    <symbol>AON</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>APA Corporation</name>
+    <symbol>APA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Apollo Global Management</name>
+    <symbol>APO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Apple Inc.</name>
+    <symbol>AAPL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Applied Materials</name>
+    <symbol>AMAT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>AppLovin</name>
+    <symbol>APP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Aptiv</name>
+    <symbol>APTV</symbol>
+    <country>Switzerland</country>
+  </ticker>
+  <ticker>
+    <name>Arch Capital Group</name>
+    <symbol>ACGL</symbol>
+    <country>Bermuda</country>
+  </ticker>
+  <ticker>
+    <name>Archer Daniels Midland</name>
+    <symbol>ADM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Arista Networks</name>
+    <symbol>ANET</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Arthur J. Gallagher &amp; Co.</name>
+    <symbol>AJG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Assurant</name>
+    <symbol>AIZ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>AT&amp;T</name>
+    <symbol>T</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Atmos Energy</name>
+    <symbol>ATO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Autodesk</name>
+    <symbol>ADSK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Automatic Data Processing</name>
+    <symbol>ADP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>AutoZone</name>
+    <symbol>AZO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>AvalonBay Communities</name>
+    <symbol>AVB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Avery Dennison</name>
+    <symbol>AVY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Axon Enterprise</name>
+    <symbol>AXON</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Baker Hughes</name>
+    <symbol>BKR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ball Corporation</name>
+    <symbol>BALL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Bank of America</name>
+    <symbol>BAC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Baxter International</name>
+    <symbol>BAX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Becton Dickinson</name>
+    <symbol>BDX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Berkshire Hathaway</name>
+    <symbol>BRK.B</symbol>
+    <country />
+  </ticker>
+  <ticker>
+    <name>Best Buy</name>
+    <symbol>BBY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Bio-Techne</name>
+    <symbol>TECH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Biogen</name>
+    <symbol>BIIB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>BlackRock</name>
+    <symbol>BLK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Blackstone Inc.</name>
+    <symbol>BX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Block, Inc.</name>
+    <symbol>XYZ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>BNY Mellon</name>
+    <symbol>BK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Boeing</name>
+    <symbol>BA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Booking Holdings</name>
+    <symbol>BKNG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Boston Scientific</name>
+    <symbol>BSX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Bristol Myers Squibb</name>
+    <symbol>BMY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Broadcom</name>
+    <symbol>AVGO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Broadridge Financial Solutions</name>
+    <symbol>BR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Brown &amp; Brown</name>
+    <symbol>BRO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Brown–Forman</name>
+    <symbol>BF.B</symbol>
+    <country />
+  </ticker>
+  <ticker>
+    <name>Builders FirstSource</name>
+    <symbol>BLDR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Bunge Global</name>
+    <symbol>BG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>BXP, Inc.</name>
+    <symbol>BXP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>C.H. Robinson</name>
+    <symbol>CHRW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cadence Design Systems</name>
+    <symbol>CDNS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Camden Property Trust</name>
+    <symbol>CPT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Campbell's Company (The)</name>
+    <symbol>CPB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Capital One</name>
+    <symbol>COF</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cardinal Health</name>
+    <symbol>CAH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CarMax</name>
+    <symbol>KMX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Carnival</name>
+    <symbol>CCL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Carrier Global</name>
+    <symbol>CARR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Caterpillar Inc.</name>
+    <symbol>CAT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cboe Global Markets</name>
+    <symbol>CBOE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CBRE Group</name>
+    <symbol>CBRE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CDW Corporation</name>
+    <symbol>CDW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cencora</name>
+    <symbol>COR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Centene Corporation</name>
+    <symbol>CNC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CenterPoint Energy</name>
+    <symbol>CNP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CF Industries</name>
+    <symbol>CF</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Charles River Laboratories</name>
+    <symbol>CRL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Charles Schwab Corporation</name>
+    <symbol>SCHW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Charter Communications</name>
+    <symbol>CHTR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Chevron Corporation</name>
+    <symbol>CVX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Chipotle Mexican Grill</name>
+    <symbol>CMG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Chubb Limited</name>
+    <symbol>CB</symbol>
+    <country>Switzerland</country>
+  </ticker>
+  <ticker>
+    <name>Church &amp; Dwight</name>
+    <symbol>CHD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cigna</name>
+    <symbol>CI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cincinnati Financial</name>
+    <symbol>CINF</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cintas</name>
+    <symbol>CTAS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cisco</name>
+    <symbol>CSCO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Citigroup</name>
+    <symbol>C</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Citizens Financial Group</name>
+    <symbol>CFG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Clorox</name>
+    <symbol>CLX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CME Group</name>
+    <symbol>CME</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CMS Energy</name>
+    <symbol>CMS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Coca-Cola Company (The)</name>
+    <symbol>KO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cognizant</name>
+    <symbol>CTSH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Coinbase</name>
+    <symbol>COIN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Colgate-Palmolive</name>
+    <symbol>CL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Comcast</name>
+    <symbol>CMCSA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Conagra Brands</name>
+    <symbol>CAG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>ConocoPhillips</name>
+    <symbol>COP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Consolidated Edison</name>
+    <symbol>ED</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Constellation Brands</name>
+    <symbol>STZ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Constellation Energy</name>
+    <symbol>CEG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cooper Companies (The)</name>
+    <symbol>COO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Copart</name>
+    <symbol>CPRT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Corning Inc.</name>
+    <symbol>GLW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Corpay</name>
+    <symbol>CPAY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Corteva</name>
+    <symbol>CTVA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CoStar Group</name>
+    <symbol>CSGP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Costco</name>
+    <symbol>COST</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Coterra</name>
+    <symbol>CTRA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CrowdStrike</name>
+    <symbol>CRWD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Crown Castle</name>
+    <symbol>CCI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CSX Corporation</name>
+    <symbol>CSX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Cummins</name>
+    <symbol>CMI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>CVS Health</name>
+    <symbol>CVS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Danaher Corporation</name>
+    <symbol>DHR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Darden Restaurants</name>
+    <symbol>DRI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Datadog</name>
+    <symbol>DDOG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>DaVita</name>
+    <symbol>DVA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dayforce</name>
+    <symbol>DAY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Deckers Brands</name>
+    <symbol>DECK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Deere &amp; Company</name>
+    <symbol>DE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dell Technologies</name>
+    <symbol>DELL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Delta Air Lines</name>
+    <symbol>DAL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Devon Energy</name>
+    <symbol>DVN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dexcom</name>
+    <symbol>DXCM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Diamondback Energy</name>
+    <symbol>FANG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Digital Realty</name>
+    <symbol>DLR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dollar General</name>
+    <symbol>DG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dollar Tree</name>
+    <symbol>DLTR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dominion Energy</name>
+    <symbol>D</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Domino's</name>
+    <symbol>DPZ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>DoorDash</name>
+    <symbol>DASH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dover Corporation</name>
+    <symbol>DOV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Dow Inc.</name>
+    <symbol>DOW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>D. R. Horton</name>
+    <symbol>DHI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>DTE Energy</name>
+    <symbol>DTE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Duke Energy</name>
+    <symbol>DUK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>DuPont</name>
+    <symbol>DD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Eastman Chemical Company</name>
+    <symbol>EMN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Eaton Corporation</name>
+    <symbol>ETN</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>eBay Inc.</name>
+    <symbol>EBAY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ecolab</name>
+    <symbol>ECL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Edison International</name>
+    <symbol>EIX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Edwards Lifesciences</name>
+    <symbol>EW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Electronic Arts</name>
+    <symbol>EA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Elevance Health</name>
+    <symbol>ELV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Emcor</name>
+    <symbol>EME</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Emerson Electric</name>
+    <symbol>EMR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Entergy</name>
+    <symbol>ETR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>EOG Resources</name>
+    <symbol>EOG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>EPAM Systems</name>
+    <symbol>EPAM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>EQT Corporation</name>
+    <symbol>EQT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Equifax</name>
+    <symbol>EFX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Equinix</name>
+    <symbol>EQIX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Equity Residential</name>
+    <symbol>EQR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Erie Indemnity</name>
+    <symbol>ERIE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Essex Property Trust</name>
+    <symbol>ESS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Estée Lauder Companies (The)</name>
+    <symbol>EL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Everest Group</name>
+    <symbol>EG</symbol>
+    <country>Bermuda</country>
+  </ticker>
+  <ticker>
+    <name>Evergy</name>
+    <symbol>EVRG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Eversource Energy</name>
+    <symbol>ES</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Exelon</name>
+    <symbol>EXC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Expand Energy</name>
+    <symbol>EXE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Expedia Group</name>
+    <symbol>EXPE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Expeditors International</name>
+    <symbol>EXPD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Extra Space Storage</name>
+    <symbol>EXR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>ExxonMobil</name>
+    <symbol>XOM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>F5, Inc.</name>
+    <symbol>FFIV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>FactSet</name>
+    <symbol>FDS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fair Isaac</name>
+    <symbol>FICO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fastenal</name>
+    <symbol>FAST</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Federal Realty Investment Trust</name>
+    <symbol>FRT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>FedEx</name>
+    <symbol>FDX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fidelity National Information Services</name>
+    <symbol>FIS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fifth Third Bancorp</name>
+    <symbol>FITB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>First Solar</name>
+    <symbol>FSLR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>FirstEnergy</name>
+    <symbol>FE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fiserv</name>
+    <symbol>FI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ford Motor Company</name>
+    <symbol>F</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fortinet</name>
+    <symbol>FTNT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fortive</name>
+    <symbol>FTV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fox Corporation (Class A)</name>
+    <symbol>FOXA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Fox Corporation (Class B)</name>
+    <symbol>FOX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Franklin Resources</name>
+    <symbol>BEN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Freeport-McMoRan</name>
+    <symbol>FCX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Garmin</name>
+    <symbol>GRMN</symbol>
+    <country>Switzerland</country>
+  </ticker>
+  <ticker>
+    <name>Gartner</name>
+    <symbol>IT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>GE Aerospace</name>
+    <symbol>GE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>GE HealthCare</name>
+    <symbol>GEHC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>GE Vernova</name>
+    <symbol>GEV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Gen Digital</name>
+    <symbol>GEN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Generac</name>
+    <symbol>GNRC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>General Dynamics</name>
+    <symbol>GD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>General Mills</name>
+    <symbol>GIS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>General Motors</name>
+    <symbol>GM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Genuine Parts Company</name>
+    <symbol>GPC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Gilead Sciences</name>
+    <symbol>GILD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Global Payments</name>
+    <symbol>GPN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Globe Life</name>
+    <symbol>GL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>GoDaddy</name>
+    <symbol>GDDY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Goldman Sachs</name>
+    <symbol>GS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Halliburton</name>
+    <symbol>HAL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hartford (The)</name>
+    <symbol>HIG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hasbro</name>
+    <symbol>HAS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>HCA Healthcare</name>
+    <symbol>HCA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Healthpeak Properties</name>
+    <symbol>DOC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Henry Schein</name>
+    <symbol>HSIC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hershey Company (The)</name>
+    <symbol>HSY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hewlett Packard Enterprise</name>
+    <symbol>HPE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hilton Worldwide</name>
+    <symbol>HLT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hologic</name>
+    <symbol>HOLX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Home Depot (The)</name>
+    <symbol>HD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Honeywell</name>
+    <symbol>HON</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hormel Foods</name>
+    <symbol>HRL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Host Hotels &amp; Resorts</name>
+    <symbol>HST</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Howmet Aerospace</name>
+    <symbol>HWM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>HP Inc.</name>
+    <symbol>HPQ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Hubbell Incorporated</name>
+    <symbol>HUBB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Humana</name>
+    <symbol>HUM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Huntington Bancshares</name>
+    <symbol>HBAN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Huntington Ingalls Industries</name>
+    <symbol>HII</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>IBM</name>
+    <symbol>IBM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>IDEX Corporation</name>
+    <symbol>IEX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Idexx Laboratories</name>
+    <symbol>IDXX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Illinois Tool Works</name>
+    <symbol>ITW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Incyte</name>
+    <symbol>INCY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ingersoll Rand</name>
+    <symbol>IR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Insulet Corporation</name>
+    <symbol>PODD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Intel</name>
+    <symbol>INTC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Interactive Brokers</name>
+    <symbol>IBKR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Intercontinental Exchange</name>
+    <symbol>ICE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>International Flavors &amp; Fragrances</name>
+    <symbol>IFF</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>International Paper</name>
+    <symbol>IP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Interpublic Group of Companies (The)</name>
+    <symbol>IPG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Intuit</name>
+    <symbol>INTU</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Intuitive Surgical</name>
+    <symbol>ISRG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Invesco</name>
+    <symbol>IVZ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Invitation Homes</name>
+    <symbol>INVH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>IQVIA</name>
+    <symbol>IQV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Iron Mountain</name>
+    <symbol>IRM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>J.B. Hunt</name>
+    <symbol>JBHT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Jabil</name>
+    <symbol>JBL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Jack Henry &amp; Associates</name>
+    <symbol>JKHY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Jacobs Solutions</name>
+    <symbol>J</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Johnson &amp; Johnson</name>
+    <symbol>JNJ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Johnson Controls</name>
+    <symbol>JCI</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>JPMorgan Chase</name>
+    <symbol>JPM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Kellanova</name>
+    <symbol>K</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Kenvue</name>
+    <symbol>KVUE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Keurig Dr Pepper</name>
+    <symbol>KDP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>KeyCorp</name>
+    <symbol>KEY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Keysight Technologies</name>
+    <symbol>KEYS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Kimberly-Clark</name>
+    <symbol>KMB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Kimco Realty</name>
+    <symbol>KIM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Kinder Morgan</name>
+    <symbol>KMI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>KKR &amp; Co.</name>
+    <symbol>KKR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>KLA Corporation</name>
+    <symbol>KLAC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Kraft Heinz</name>
+    <symbol>KHC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Kroger</name>
+    <symbol>KR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>L3Harris</name>
+    <symbol>LHX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Labcorp</name>
+    <symbol>LH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lam Research</name>
+    <symbol>LRCX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lamb Weston</name>
+    <symbol>LW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Las Vegas Sands</name>
+    <symbol>LVS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Leidos</name>
+    <symbol>LDOS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lennar</name>
+    <symbol>LEN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lennox International</name>
+    <symbol>LII</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lilly (Eli)</name>
+    <symbol>LLY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Linde plc</name>
+    <symbol>LIN</symbol>
+    <country>United Kingdom</country>
+  </ticker>
+  <ticker>
+    <name>Live Nation Entertainment</name>
+    <symbol>LYV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>LKQ Corporation</name>
+    <symbol>LKQ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lockheed Martin</name>
+    <symbol>LMT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Loews Corporation</name>
+    <symbol>L</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lowe's</name>
+    <symbol>LOW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Lululemon Athletica</name>
+    <symbol>LULU</symbol>
+    <country>Canada</country>
+  </ticker>
+  <ticker>
+    <name>LyondellBasell</name>
+    <symbol>LYB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>M&amp;T Bank</name>
+    <symbol>MTB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Marathon Petroleum</name>
+    <symbol>MPC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Marriott International</name>
+    <symbol>MAR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Marsh McLennan</name>
+    <symbol>MMC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Martin Marietta Materials</name>
+    <symbol>MLM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Masco</name>
+    <symbol>MAS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Mastercard</name>
+    <symbol>MA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Match Group</name>
+    <symbol>MTCH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>McCormick &amp; Company</name>
+    <symbol>MKC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>McDonald's</name>
+    <symbol>MCD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>McKesson Corporation</name>
+    <symbol>MCK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Medtronic</name>
+    <symbol>MDT</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>Merck &amp; Co.</name>
+    <symbol>MRK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Meta Platforms</name>
+    <symbol>META</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>MetLife</name>
+    <symbol>MET</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Mettler Toledo</name>
+    <symbol>MTD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>MGM Resorts</name>
+    <symbol>MGM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Microchip Technology</name>
+    <symbol>MCHP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Micron Technology</name>
+    <symbol>MU</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Microsoft</name>
+    <symbol>MSFT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Mid-America Apartment Communities</name>
+    <symbol>MAA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Moderna</name>
+    <symbol>MRNA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Mohawk Industries</name>
+    <symbol>MHK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Molina Healthcare</name>
+    <symbol>MOH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Molson Coors Beverage Company</name>
+    <symbol>TAP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Mondelez International</name>
+    <symbol>MDLZ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Monolithic Power Systems</name>
+    <symbol>MPWR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Monster Beverage</name>
+    <symbol>MNST</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Moody's Corporation</name>
+    <symbol>MCO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Morgan Stanley</name>
+    <symbol>MS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Mosaic Company (The)</name>
+    <symbol>MOS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Motorola Solutions</name>
+    <symbol>MSI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>MSCI Inc.</name>
+    <symbol>MSCI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Nasdaq, Inc.</name>
+    <symbol>NDAQ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>NetApp</name>
+    <symbol>NTAP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Netflix</name>
+    <symbol>NFLX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Newmont</name>
+    <symbol>NEM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>News Corp (Class A)</name>
+    <symbol>NWSA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>News Corp (Class B)</name>
+    <symbol>NWS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>NextEra Energy</name>
+    <symbol>NEE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Nike, Inc.</name>
+    <symbol>NKE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>NiSource</name>
+    <symbol>NI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Nordson Corporation</name>
+    <symbol>NDSN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Norfolk Southern</name>
+    <symbol>NSC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Northern Trust</name>
+    <symbol>NTRS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Northrop Grumman</name>
+    <symbol>NOC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Norwegian Cruise Line Holdings</name>
+    <symbol>NCLH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>NRG Energy</name>
+    <symbol>NRG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Nucor</name>
+    <symbol>NUE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Nvidia</name>
+    <symbol>NVDA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>NVR, Inc.</name>
+    <symbol>NVR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>NXP Semiconductors</name>
+    <symbol>NXPI</symbol>
+    <country>Netherlands</country>
+  </ticker>
+  <ticker>
+    <name>O’Reilly Automotive</name>
+    <symbol>ORLY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Occidental Petroleum</name>
+    <symbol>OXY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Old Dominion</name>
+    <symbol>ODFL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Omnicom Group</name>
+    <symbol>OMC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>ON Semiconductor</name>
+    <symbol>ON</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Oneok</name>
+    <symbol>OKE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Oracle Corporation</name>
+    <symbol>ORCL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Otis Worldwide</name>
+    <symbol>OTIS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Paccar</name>
+    <symbol>PCAR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Packaging Corporation of America</name>
+    <symbol>PKG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Palantir Technologies</name>
+    <symbol>PLTR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Palo Alto Networks</name>
+    <symbol>PANW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Paramount Skydance Corporation</name>
+    <symbol>PSKY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Parker Hannifin</name>
+    <symbol>PH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Paychex</name>
+    <symbol>PAYX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Paycom</name>
+    <symbol>PAYC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>PayPal</name>
+    <symbol>PYPL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Pentair</name>
+    <symbol>PNR</symbol>
+    <country>United Kingdom</country>
+  </ticker>
+  <ticker>
+    <name>PepsiCo</name>
+    <symbol>PEP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Pfizer</name>
+    <symbol>PFE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>PG&amp;E Corporation</name>
+    <symbol>PCG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Philip Morris International</name>
+    <symbol>PM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Phillips 66</name>
+    <symbol>PSX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Pinnacle West Capital</name>
+    <symbol>PNW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>PNC Financial Services</name>
+    <symbol>PNC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Pool Corporation</name>
+    <symbol>POOL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>PPG Industries</name>
+    <symbol>PPG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>PPL Corporation</name>
+    <symbol>PPL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Principal Financial Group</name>
+    <symbol>PFG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Procter &amp; Gamble</name>
+    <symbol>PG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Progressive Corporation</name>
+    <symbol>PGR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Prologis</name>
+    <symbol>PLD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Prudential Financial</name>
+    <symbol>PRU</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Public Service Enterprise Group</name>
+    <symbol>PEG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>PTC Inc.</name>
+    <symbol>PTC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Public Storage</name>
+    <symbol>PSA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>PulteGroup</name>
+    <symbol>PHM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Quanta Services</name>
+    <symbol>PWR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Qualcomm</name>
+    <symbol>QCOM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Quest Diagnostics</name>
+    <symbol>DGX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ralph Lauren Corporation</name>
+    <symbol>RL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Raymond James Financial</name>
+    <symbol>RJF</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>RTX Corporation</name>
+    <symbol>RTX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Realty Income</name>
+    <symbol>O</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Regency Centers</name>
+    <symbol>REG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Regeneron Pharmaceuticals</name>
+    <symbol>REGN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Regions Financial Corporation</name>
+    <symbol>RF</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Republic Services</name>
+    <symbol>RSG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>ResMed</name>
+    <symbol>RMD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Revvity</name>
+    <symbol>RVTY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Robinhood Markets</name>
+    <symbol>HOOD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Rockwell Automation</name>
+    <symbol>ROK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Rollins, Inc.</name>
+    <symbol>ROL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Roper Technologies</name>
+    <symbol>ROP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ross Stores</name>
+    <symbol>ROST</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Royal Caribbean Group</name>
+    <symbol>RCL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>S&amp;P Global</name>
+    <symbol>SPGI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Salesforce</name>
+    <symbol>CRM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>SBA Communications</name>
+    <symbol>SBAC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Schlumberger</name>
+    <symbol>SLB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Seagate Technology</name>
+    <symbol>STX</symbol>
+    <country>Singapore</country>
+  </ticker>
+  <ticker>
+    <name>Sempra</name>
+    <symbol>SRE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>ServiceNow</name>
+    <symbol>NOW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Sherwin-Williams</name>
+    <symbol>SHW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Simon Property Group</name>
+    <symbol>SPG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Skyworks Solutions</name>
+    <symbol>SWKS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>J.M. Smucker Company (The)</name>
+    <symbol>SJM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Smurfit Westrock</name>
+    <symbol>SW</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>Snap-on</name>
+    <symbol>SNA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Solventum</name>
+    <symbol>SOLV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Southern Company</name>
+    <symbol>SO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Southwest Airlines</name>
+    <symbol>LUV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Stanley Black &amp; Decker</name>
+    <symbol>SWK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Starbucks</name>
+    <symbol>SBUX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>State Street Corporation</name>
+    <symbol>STT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Steel Dynamics</name>
+    <symbol>STLD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Steris</name>
+    <symbol>STE</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Stryker Corporation</name>
+    <symbol>SYK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Supermicro</name>
+    <symbol>SMCI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Synchrony Financial</name>
+    <symbol>SYF</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Synopsys</name>
+    <symbol>SNPS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Sysco</name>
+    <symbol>SYY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>T-Mobile US</name>
+    <symbol>TMUS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>T. Rowe Price</name>
+    <symbol>TROW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Take-Two Interactive</name>
+    <symbol>TTWO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Tapestry, Inc.</name>
+    <symbol>TPR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Targa Resources</name>
+    <symbol>TRGP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Target Corporation</name>
+    <symbol>TGT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>TE Connectivity</name>
+    <symbol>TEL</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>Teledyne Technologies</name>
+    <symbol>TDY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Teradyne</name>
+    <symbol>TER</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Tesla, Inc.</name>
+    <symbol>TSLA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Texas Instruments</name>
+    <symbol>TXN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Texas Pacific Land Corporation</name>
+    <symbol>TPL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Textron</name>
+    <symbol>TXT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Thermo Fisher Scientific</name>
+    <symbol>TMO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>TJX Companies</name>
+    <symbol>TJX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>TKO Group Holdings</name>
+    <symbol>TKO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Trade Desk (The)</name>
+    <symbol>TTD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Tractor Supply</name>
+    <symbol>TSCO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Trane Technologies</name>
+    <symbol>TT</symbol>
+    <country>Ireland</country>
+  </ticker>
+  <ticker>
+    <name>TransDigm Group</name>
+    <symbol>TDG</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Travelers Companies (The)</name>
+    <symbol>TRV</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Trimble Inc.</name>
+    <symbol>TRMB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Truist Financial</name>
+    <symbol>TFC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Tyler Technologies</name>
+    <symbol>TYL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Tyson Foods</name>
+    <symbol>TSN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>U.S. Bancorp</name>
+    <symbol>USB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Uber</name>
+    <symbol>UBER</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>UDR, Inc.</name>
+    <symbol>UDR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ulta Beauty</name>
+    <symbol>ULTA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Union Pacific Corporation</name>
+    <symbol>UNP</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>United Airlines Holdings</name>
+    <symbol>UAL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>United Parcel Service</name>
+    <symbol>UPS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>United Rentals</name>
+    <symbol>URI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>UnitedHealth Group</name>
+    <symbol>UNH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Universal Health Services</name>
+    <symbol>UHS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Valero Energy</name>
+    <symbol>VLO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Ventas</name>
+    <symbol>VTR</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Veralto</name>
+    <symbol>VLTO</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Verisign</name>
+    <symbol>VRSN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Verisk Analytics</name>
+    <symbol>VRSK</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Verizon</name>
+    <symbol>VZ</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Vertex Pharmaceuticals</name>
+    <symbol>VRTX</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Viatris</name>
+    <symbol>VTRS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Vici Properties</name>
+    <symbol>VICI</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Visa Inc.</name>
+    <symbol>V</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Vistra Corp.</name>
+    <symbol>VST</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Vulcan Materials Company</name>
+    <symbol>VMC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>W. R. Berkley Corporation</name>
+    <symbol>WRB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>W. W. Grainger</name>
+    <symbol>GWW</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Wabtec</name>
+    <symbol>WAB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Walmart</name>
+    <symbol>WMT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Walt Disney Company (The)</name>
+    <symbol>DIS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Warner Bros. Discovery</name>
+    <symbol>WBD</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Waste Management</name>
+    <symbol>WM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Waters Corporation</name>
+    <symbol>WAT</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>WEC Energy Group</name>
+    <symbol>WEC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Wells Fargo</name>
+    <symbol>WFC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Welltower</name>
+    <symbol>WELL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>West Pharmaceutical Services</name>
+    <symbol>WST</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Western Digital</name>
+    <symbol>WDC</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Weyerhaeuser</name>
+    <symbol>WY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Williams-Sonoma, Inc.</name>
+    <symbol>WSM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Williams Companies</name>
+    <symbol>WMB</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Willis Towers Watson</name>
+    <symbol>WTW</symbol>
+    <country>United Kingdom</country>
+  </ticker>
+  <ticker>
+    <name>Workday, Inc.</name>
+    <symbol>WDAY</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Wynn Resorts</name>
+    <symbol>WYNN</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Xcel Energy</name>
+    <symbol>XEL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Xylem Inc.</name>
+    <symbol>XYL</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Yum! Brands</name>
+    <symbol>YUM</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Zebra Technologies</name>
+    <symbol>ZBRA</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Zimmer Biomet</name>
+    <symbol>ZBH</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Zoetis</name>
+    <symbol>ZTS</symbol>
+    <country>United States</country>
+  </ticker>
+  <ticker>
+    <name>Accor</name>
+    <symbol>AC.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Air Liquide</name>
+    <symbol>AI.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Airbus</name>
+    <symbol>AIR.PA</symbol>
+    <country>Netherlands</country>
+  </ticker>
+  <ticker>
+    <name>ArcelorMittal</name>
+    <symbol>MT.AS</symbol>
+    <country>Luxembourg</country>
+  </ticker>
+  <ticker>
+    <name>Axa</name>
+    <symbol>CS.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>BNP Paribas</name>
+    <symbol>BNP.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Bouygues</name>
+    <symbol>EN.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Bureau Veritas</name>
+    <symbol>BVI.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Capgemini</name>
+    <symbol>CAP.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Carrefour</name>
+    <symbol>CA.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Crédit Agricole</name>
+    <symbol>ACA.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Danone</name>
+    <symbol>BN.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Dassault Systèmes</name>
+    <symbol>DSY.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Edenred</name>
+    <symbol>EDEN.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Engie</name>
+    <symbol>ENGI.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>EssilorLuxottica</name>
+    <symbol>EL.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Eurofins Scientific</name>
+    <symbol>ERF.PA</symbol>
+    <country>Luxembourg</country>
+  </ticker>
+  <ticker>
+    <name>Hermès</name>
+    <symbol>RMS.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Kering</name>
+    <symbol>KER.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>L'Oréal</name>
+    <symbol>OR.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Legrand</name>
+    <symbol>LR.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>LVMH</name>
+    <symbol>MC.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Michelin</name>
+    <symbol>ML.PA</symbol>
+    <country />
+  </ticker>
+  <ticker>
+    <name>Orange</name>
+    <symbol>ORA.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Pernod Ricard</name>
+    <symbol>RI.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Publicis</name>
+    <symbol>PUB.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Renault</name>
+    <symbol>RNO.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Safran</name>
+    <symbol>SAF.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Saint-Gobain</name>
+    <symbol>SGO.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Sanofi</name>
+    <symbol>SAN.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Schneider Electric</name>
+    <symbol>SU.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Société Générale</name>
+    <symbol>GLE.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Stellantis</name>
+    <symbol>STLAP.PA</symbol>
+    <country>Netherlands</country>
+  </ticker>
+  <ticker>
+    <name>STMicroelectronics</name>
+    <symbol>STMPA.PA</symbol>
+    <country>Netherlands</country>
+  </ticker>
+  <ticker>
+    <name>Teleperformance</name>
+    <symbol>TEP.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Thales</name>
+    <symbol>HO.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>TotalEnergies</name>
+    <symbol>TTE.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Unibail-Rodamco-Westfield</name>
+    <symbol>URW.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Veolia</name>
+    <symbol>VIE.PA</symbol>
+    <country>France</country>
+  </ticker>
+  <ticker>
+    <name>Vinci</name>
+    <symbol>DG.PA</symbol>
+    <country>France</country>
+  </ticker>
+</tickers>
